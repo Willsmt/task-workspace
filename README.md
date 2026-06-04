@@ -9,6 +9,10 @@ Plataforma SaaS de produtividade com a estética _Obsidian Crimson_: tema dark c
 acento neon crimson e tipografia técnica (Geist + JetBrains Mono). Reproduz fielmente o design do
 Figma e segue rigorosamente o Design System do projeto.
 
+## 🤖 Meu papel neste projeto
+
+Projeto desenvolvido com auxílio de IA como ferramenta. Eu defini a proposta, dirigi as decisões de arquitetura (estrutura de pastas em `features/`, slices tipados do Redux Toolkit, rotas aninhadas com layout persistente) e revisei o código gerado para garantir entendimento. O foco do estudo é dominar o fluxo de desenvolvimento assistido por IA mantendo controle técnico sobre o resultado — entender, a fundo, cada parte do código.
+
 ## Stack
 
 - **React 18** + **TypeScript** (modo estrito, zero `any`)
